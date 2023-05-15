@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **REACT,NODE.JS**
+- 🌱 I’m currently learning **REACT and NODE.JS**
 
 - 💬 Ask me about **Frontent , Backend**
 
