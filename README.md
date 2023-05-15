@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sabana Co.Ltd**
 
-- 🌱 I’m currently learning **rEACT,NODE.JS**
+- 🌱 I’m currently learning **REACT,NODE.JS**
 
 - 💬 Ask me about **Frontent , Backend**
 
